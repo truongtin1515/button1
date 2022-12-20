@@ -1,0 +1,146 @@
+*{
+ padding:0;
+ margin:0;
+ box-sizing: border-box;
+ background-color: aliceblue;
+}
+.truongtin3{
+    margin-top:20px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+}
+.truongtin3 h1{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    border-radius: 20px;
+    padding:10px;
+    color:aliceblue;
+    background-color:rgb(3, 59, 36);
+    transition: all 1.5s ease;
+}
+.truongtin3 h1:hover{
+    background-color:rgb(158, 242, 204)
+}
+.truongtin3 img{
+  width: 50px;
+  height: 50px;
+  margin-right:20px ;
+  border-style:none;
+  border-radius: 70%;
+  transition:transform 1.5s;
+}
+.truongtin3 img:hover{
+    transform: scale(1.5);
+}
+.truongtin{
+    display: flex;
+}
+.truongtin li.truongtin1{
+    list-style-type: none;
+    margin:auto;
+    margin-top: 30px;
+    border-radius:10px;
+    display:block;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    transition: transform 1.5s;
+}
+.truongtin li.truongtin1:hover{
+    transform: scale(1.5);
+}
+.truongtin  img{
+    height: 200px;
+    width:200px;  
+    padding:10px;
+    justify-items: center;
+}
+
+.truongtin2 {
+    margin-top: 50px;
+    margin-left:80px;
+}
+.truongtin2 a.button{
+    text-decoration: none;
+    font-size:20px;
+    color:rgb(238, 246, 243);
+    font-weight:500;
+    padding:10px;
+    margin-left: 10px;
+    background-color:green;
+    border-radius: 20px;
+    transition: all 1.5s ease;
+}
+.truongtin2 a.button:hover{
+    background-color: rgb(109, 237, 195);
+}
+.truongtin2 a.button{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.truongtin2 a.button1{
+    text-decoration: none;
+    font-size:20px;
+    color:rgb(238, 246, 243);
+    font-weight:500;
+    padding:10px;
+    margin-left: 10px;
+    background-color:rgb(119, 130, 5);
+    border-radius: 20px;
+    transition: all 1.5s ease;
+}
+.truongtin2 a.button1:hover{
+    background-color: rgb(211, 245, 110);
+}
+.truongtin2 a.button1{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.truongtin2 a.button2{
+    text-decoration: none;
+    font-size:20px;
+    color:rgb(238, 246, 243);
+    font-weight:500;
+    padding:10px;
+    margin-left: 10px;
+    background-color:rgb(21, 8, 94);
+    border-radius: 20px;
+    transition: all 1.5s ease;
+}
+.truongtin2 a.button2:hover{
+    background-color: rgb(117, 193, 231);
+}
+.truongtin2 a.button2{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.truongtin2 a.button3{
+    text-decoration: none;
+    font-size:20px;
+    color:rgb(238, 246, 243);
+    font-weight:500;
+    padding:10px;
+    margin-left: 10px;
+    background-color:rgb(70, 5, 63);
+    border-radius: 20px;
+    transition: all 1.5s ease;
+}
+.truongtin2 a.button3:hover{
+    background-color: rgb(232, 167, 214);
+}
+.truongtin2 a.button3{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.truongtin2 a.button4{
+    text-decoration: none;
+    font-size:20px;
+    color:rgb(238, 246, 243);
+    font-weight:500;
+    padding:10px;
+    margin-left: 10px;
+    background-color:rgb(21, 105, 85);
+    border-radius: 20px;
+    transition: all 1.5s ease;
+}
+.truongtin2 a.button4:hover{
+    background-color: rgb(164, 246, 219);
+}
+.truongtin2 a.button4{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+   
